@@ -1,6 +1,6 @@
 # SnakeGame
 A Quick Snake Game in C programming
-![picture alt](https://raw.githubusercontent.com/UUinc/ArtGenerator/main/RedBluePortals.jpg "RedBluePortals")
+![picture alt](https://raw.githubusercontent.com/UUinc/SnakeGame/main/Game_Overview.jpg "Snake Game Overview")
 
 if you are using __BORLAND__ as compiler you are fine, if not and you dont have _gotoxy(), wherex(), wherey(), textcolor(), delay()_ functions here how you can create them yourself :
 
